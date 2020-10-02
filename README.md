@@ -9,7 +9,7 @@
 ### <div align="center">STEPS:-</div>
 
   ### 1. Create a GitHub account (Ignore if you already have one)
-  https://github.com/
+  ### https://github.com/
 <br></br>
 ##
   ### 2. Go to https://hacktoberfest.digitalocean.com and sign up for a new profile by providing authentication with Github.
@@ -47,18 +47,18 @@
 
 
 ##
-## <div align="center"> 🥳 Congratulations!! 🥳 </div>
-## <div align="center">🙌🙌You just created your 1st PR🙌🙌</div>
+## <div align="center"> Congratulations!! 🥳 </div>
+## <div align="center">You just created your 1st PR</div>
 
 ##
 #### Now you just have to repeat the steps 4 to 8 for 3 more times with different programs in order to be eligible for a free T-shirt👕 and stickers🤩.
 
 ## <div align="center">Note:-</div>
 
-##### 1. Don't copy the code from anywhere on the internet. Try to contribute your  own programs
+##### 1. Don't copy the code from anywhere on the internet. Try to contribute your own programs
 ##### 2. Deadline is 31st October.
 ##### 3. Please try to contribute useful programs
 
-#### If you need any help, Contact me at **8106237018**
+#### If you need any help, Contact me at **+918106237018**
 
 ## <div align="center">🤞Happy Coding🤞</div>
