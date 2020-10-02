@@ -23,7 +23,7 @@ def maxSubsetSum(arr):
         dp[i] = max(dp[i-1], dp[i-2]+num, dp[i-2], num)
     return dp[len(arr)-1]
 
-n = int(input("Enter number values in the array: "))
+n = int(input("Enter the array size: "))
 arr = list(map(int, input("Enter values of the array: ").rstrip().split()))
 res = maxSubsetSum(arr)
 print("Maximum Subset sum array is: "+str(res))
