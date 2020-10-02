@@ -20,7 +20,7 @@
   ![](https://i.ibb.co/R4p91T9/fork1.jpg)
 <br></br>
 ##
-  ### 4. Now click anyof the folder"*EG:Data Structures*" folder and click on "*new file*"📁.
+  ### 4. Now click on DS-Algo and select any folder of your choice "*EG:Data Structures*" folder and click on "*new file*"📁.
   #You can upload any of your programs to the respective folder and also Therotical Concepts under Therotical Concepts Folder with .txt extension
   ![](https://i.ibb.co/PGymWWZ/1-0-2-Git-create-file.png)
 <br></br>
